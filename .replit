@@ -1,5 +1,5 @@
 onBoot="npm install"
-run = "node --no-warnings ."
+run = "npm install && node --no-warnings ."
 
 [nix]
 channel = "stable-21_11"
