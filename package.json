@@ -1,0 +1,22 @@
+{
+  "name": "discord-active-developer",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Discord just launched the new \"Active Developer\" badge and they're encouraging new developers to join the community and get it. If you're still learning and want the badge, follow the instructions below!",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackermondev/discord-active-developer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackermondev/discord-active-developer/issues"
+  },
+  "homepage": "https://github.com/hackermondev/discord-active-developer#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "readline": "^1.3.0"
+  }
+}
