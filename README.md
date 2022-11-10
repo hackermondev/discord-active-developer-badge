@@ -29,5 +29,5 @@ If you're still learning and want the badge, follow the instructions below!
 - Create a new discord server (you can delete it at the end)
 - Use this invite link to add the application to the server: (replace ``{applicationid}`` with what you copied) ``https://discord.com/oauth2/authorize?client_id={applicationid}&scope=bot%20applications.commands&permissions=105227086912``
 - In the server, go to a channel and use the ``/ping`` command on the bot
-- Go to the <https://discord.com/developers/active-developer> page and register everything 
+- Go to the <https://discord.com/developers/active-developer> page and register everything (**if it says you're not eligbile, it's because you're not registered in their system yet. you might have to wait up to 24 hours**)
 - Congrats on that shiny new badge 
