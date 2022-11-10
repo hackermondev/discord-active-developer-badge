@@ -31,3 +31,6 @@ If you're still learning and want the badge, follow the instructions below!
 - In the server, go to a channel and use the ``/ping`` command on the bot
 - Go to the <https://discord.com/developers/active-developer> page and register everything (**if it says you're not eligbile, it's because you're not registered in their system yet. you might have to wait up to 24 hours**)
 - Congrats on that shiny new badge 
+
+
+If you're encounting any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues)
