@@ -35,3 +35,7 @@ If you're still learning and want the badge, follow the instructions below!
 
 
 If you're encounting any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues) or DM me on Discord ``hackermon#3582``
+
+
+# Star the repo!!!
+If you were able to successfully get the badge from this, star this repository so more people can see it.
