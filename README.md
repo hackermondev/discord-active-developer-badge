@@ -24,6 +24,7 @@ If you're still learning and want the badge, follow the instructions below!
 - Wait for the repo has finished cloning and the repl to full connect
 - Click the green "Run" button at the top
 - Go to the console (big black square on the right) and paste in the token you copied earlier (**Note**: ``CTRL + V`` won't work, you'll need to do ``CTRL + Shift + V`` or right-click and click paste
+- Press the 'Enter' button
 - Wait for it to print 'DONE' in the console, **DON'T STOP THE PROGRAM OR CLOSE THE TAB YET**
 - Go back to the application page, go to the "General Information" tab, scroll down and copy application id
 - Create a new discord server (you can delete it at the end)
