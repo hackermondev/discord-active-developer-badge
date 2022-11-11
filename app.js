@@ -3,7 +3,7 @@ const { execSync } = require('child_process');
 const fetch = require('node-fetch');
 const { Client, REST, Routes, GatewayIntentBits } = require('discord.js');
 
-const client = new Client({ intents: [GatewayIntentBits.Guilds] });
+const client = new Client({ intents: [] });
 const rl = createInterface({ input: process.stdin, output: process.stdout });
 
 
