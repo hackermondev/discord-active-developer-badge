@@ -33,4 +33,4 @@ If you're still learning and want the badge, follow the instructions below!
 - Congrats on that shiny new badge 
 
 
-If you're encounting any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues)
+If you're encounting any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues) or DM me on Discord ``hackermon#3582``
