@@ -38,5 +38,5 @@ const question = (q) => new Promise((resolve) => rl.question(q, resolve));
     }
   ] });
 
-  console.log('DONE');
+  console.log('DONE | Application/Bot is up and running. DO NOT CLOSE THIS TAB UNLESS YOU ARE FINISHED USING THE BOT, IT WILL PUT THE BOT OFFLINE.');
 })();
