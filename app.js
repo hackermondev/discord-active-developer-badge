@@ -2,14 +2,18 @@ const { createInterface } = require('node:readline');
 const { execSync } = require('child_process');
 const fetch = require('node-fetch');
 const { Client, REST, Routes, GatewayIntentBits } = require('discord.js');
+const keepAlive = require("./server")
+const server = require('express')
 
 const client = new Client({ intents: [] });
 const rl = createInterface({ input: process.stdin, output: process.stdout });
 
 
 client.on('interactionCreate', (interaction) => {
-  interaction.reply('yes');  
+  interaction.reply('Visit this website https://discord.com/developers/active-developer in **24 hrs** to check eligibility for Active Developer Badge');  
 });
+
+keepAlive()
 
 const question = (q) => new Promise((resolve) => rl.question(q, resolve));
 (async ()=>{
@@ -29,12 +33,13 @@ const question = (q) => new Promise((resolve) => rl.question(q, resolve));
   await client.login(token).catch((err) => {
     throw err
   });
-
+    //command
   const rest = new REST({ version: '10' }).setToken(token);
   await rest.put(Routes.applicationCommands(client.user.id), { body: [
     {
       name: 'ping',
-      description: 'yes'
+      description: 'ping to check badge eligibility'
+        
     }
   ] });
 
