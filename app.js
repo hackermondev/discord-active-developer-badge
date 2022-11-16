@@ -1,7 +1,7 @@
 const { createInterface } = require('node:readline');
 const { execSync } = require('child_process');
 const fetch = require('node-fetch');
-const { Client, REST, Routes, GatewayIntentBits } = require('discord.js');
+const { Client, Routes } = require('discord.js');
 
 const client = new Client({ intents: [] });
 const rl = createInterface({ input: process.stdin, output: process.stdout });
@@ -30,8 +30,7 @@ const question = (q) => new Promise((resolve) => rl.question(q, resolve));
     throw err
   });
 
-  const rest = new REST({ version: '10' }).setToken(token);
-  await rest.put(Routes.applicationCommands(client.user.id), { body: [
+  await client.rest.put(Routes.applicationCommands(client.user.id), { body: [
     {
       name: 'ping',
       description: 'yes'
