@@ -10,7 +10,7 @@ const ping = {
 
 
 // Command Example
-var command2 = {
+const command2 = {
   name:'command2',
   description:'yes'
 }
@@ -27,7 +27,7 @@ client.on('interactionCreate', (interaction) => {
     interaction.reply('yes');  
   } else if(interaction.commandName === 'command2') { // This is the example command's name!
     interaction.reply('example command');
-  } else { //A  response if you forget to add the command here!
+  } else { // a response if you forget to add the command here
     interaction.reply('this command\'s response has not been added yet!');
   }
 });
@@ -52,7 +52,7 @@ const question = (q) => new Promise((resolve) => rl.question(q, resolve));
     throw err
   });
 
-  await client.rest.put(Routes.applicationCommands(client.user.id), { body: commands }); //commands added to the variable will auto update!
+  await client.rest.put(Routes.applicationCommands(client.user.id), { body: commands });
 
   console.log('DONE | Application/Bot is up and running. DO NOT CLOSE THIS TAB UNLESS YOU ARE FINISHED USING THE BOT, IT WILL PUT THE BOT OFFLINE.');
 })();
