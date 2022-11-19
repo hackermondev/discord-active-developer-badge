@@ -40,11 +40,13 @@ If you're still learning and want the badge, follow the instructions below!
 - Congrats on that shiny new badge 
 
 
-If you're encounting any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues) or join (this)[https://discord.gg/M5MSE9CvNM] server and ping me in the #general channel.
+If you're encounting any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues) or join [this](https://discord.gg/M5MSE9CvNM) server and ping me in the `#general` channel.
 
 ### If you're unable to get the badge after waiting 24 hours
 This is a known issue that Discord is working on fixing. There should be a fix out by Monday [11/14/22] or Tuesday [11/15/22]
 ![image](https://i.imgur.com/978LAUB.png)
 
 # Star the repo!!!
-If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: https://discord.gg/M5MSE9CvNM
+If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: 
+
+[<img src="https://skillicons.dev/icons?i=discord">](https://discord.gg/M5MSE9CvNM)
