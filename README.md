@@ -47,6 +47,4 @@ This is a known issue that Discord is working on fixing. There should be a fix o
 ![image](https://i.imgur.com/978LAUB.png)
 
 # Star the repo!!!
-If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: 
-
-[<img src="https://skillicons.dev/icons?i=discord">](https://discord.gg/M5MSE9CvNM)
+If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: https://discord.gg/M5MSE9CvNM
