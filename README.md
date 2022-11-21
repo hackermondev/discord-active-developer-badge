@@ -1,5 +1,5 @@
 ### No, it's not "patched"
-I've seen a lot of people say that this method has been patched or something. It's not. It still works (people are still getting the badge from it), if you're unable to get the badge after 24 hours of waiting, you're probably affected by the issue I mentioned below.  
+I've seen a lot of people say that this method has been patched or something. It's not. It still works (people are still getting the badge from it), if you're unable to get the badge after 24 hours of waiting, you're probably affected by the issue I mentioned below. (Listed under as "If you're unable to get the badge after waiting 24 hours")
 
 I think people think this is patched because of NoTextToSpeech's video but that video linked to another repository that works a different way, not this one.
 
@@ -28,7 +28,7 @@ If you're still learning and want the badge, follow the instructions below!
   - You will be redirected to Replit, you might have to create an account (you can Register with Google)
 - Wait for the repo has finished cloning and the repl to full connect
 - Click the green "Run" button at the top
-- Go to the console (big black square on the right) and paste in the token you copied earlier (**Note**: ``CTRL + V`` won't work, you'll need to do ``CTRL + Shift + V`` or right-click and click paste
+- Go to the console (big black square on the right) and paste in the token you copied earlier (**Note**: ``CTRL + V`` won't work, you'll need to do ``CTRL + Shift + V`` or right-click and click paste)
 - Press the 'Enter' button
 - Wait for it to print 'DONE' in the console, **DON'T STOP THE PROGRAM OR CLOSE THE TAB YET**
 - Go back to the application page, go to the "General Information" tab, scroll down and copy application id
@@ -43,8 +43,8 @@ If you're still learning and want the badge, follow the instructions below!
 If you're encounting any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues) or join [this](https://discord.gg/M5MSE9CvNM) server and ping me in the `#general` channel.
 
 ### If you're unable to get the badge after waiting 24 hours
-This is a known issue that Discord is working on fixing. There should be a fix out by Monday [11/14/22] or Tuesday [11/15/22]
-![image](https://i.imgur.com/978LAUB.png)
+This is a known issue that Discord is working on fixing. There is no current ETA.
+![image](https://imgur.com/a/tcNU6C6) Image from 11/16/22.
 
 # Star the repo!!!
 If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: https://discord.gg/M5MSE9CvNM
