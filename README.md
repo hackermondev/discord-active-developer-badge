@@ -44,7 +44,8 @@ If you're encounting any issues, [create a new GitHub issue](https://github.com/
 
 ### If you're unable to get the badge after waiting 24 hours
 This is a known issue that Discord is working on fixing. There is no current ETA.
-![image](https://imgur.com/a/tcNU6C6) Image from 11/16/22.
+![image](https://i.imgur.com/47Ce4Pe.png)
+Image from 11/16/22.
 
 # Star the repo!!!
 If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: https://discord.gg/M5MSE9CvNM
