@@ -1,5 +1,5 @@
 ### No, it's not "patched"
-I've seen a lot of people say that this method has been patched or something. It's not. It still works (people are still getting the badge from it), if you're unable to get the badge after 24 hours of waiting, you're probably affected by the issue I mentioned below.  
+I've seen a lot of people say that this method has been patched or something. It's not. It still works (people are still getting the badge from it), if you're unable to get the badge after 24 hours of waiting, you probably didn't follow the instructions correctly.
 
 I think people think this is patched because of NoTextToSpeech's video but that video linked to another repository that works a different way, not this one.
 
@@ -41,13 +41,7 @@ If you're still learning and want the badge, follow the instructions below!
 
 **NOTE:** Make sure you have the “Use data to improve Discord” setting enabled under User Settings > Privacy & Safety otherwise you won't be able to be marked as eligible.
 
-
-
 If you're encounting any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues) or join [this](https://discord.gg/M5MSE9CvNM) server and ping me in the `#general` channel.
-
-### If you're unable to get the badge after waiting 24 hours
-This is a known issue that Discord is working on fixing. There should be a fix out by Monday [11/14/22] or Tuesday [11/15/22]
-![image](https://i.imgur.com/978LAUB.png)
 
 # Star the repo!!!
 If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: https://discord.gg/M5MSE9CvNM
