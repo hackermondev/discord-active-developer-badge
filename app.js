@@ -5,7 +5,7 @@ const { Client, Routes } = require('discord.js');
 
 const ping = {
   name: 'ping',
-  description: 'yes'
+  description: 'Pings the bot and shows the latency'
 };
 
 
@@ -24,7 +24,7 @@ const rl = createInterface({ input: process.stdin, output: process.stdout });
 
 client.on('interactionCreate', (interaction) => {
   if (interaction.commandName === 'ping') {
-    interaction.reply('yes');  
+    interaction.reply(`Latency is ${Date.now() - message.createdTimestamp}ms. API Latency is ${Math.round(client.ws.ping)}ms`);  
   } else if(interaction.commandName === 'command2') { // This is the example command's name!
     interaction.reply('example command');
   } else { // a response if you forget to add the command here
