@@ -30,8 +30,8 @@ If you're still learning and want the badge, follow the instructions below!
 - Wait for the repo has finished cloning and the repl to fully connect.
 - Click the green "Run" button at the top.
 - Go to the console (big black square on the right) and paste in the token you copied earlier (**Note**: ``CTRL + V`` won't work, you'll need to do ``CTRL + Shift + V`` or right-click and click paste).
-- Press the 'Enter' key
-- Wait for it to print 'DONE | Application/Bot is up and running. DO NOT CLOSE THIS TAB UNLESS YOU ARE FINISHED USING THE BOT, IT WILL PUT THE BOT OFFLINE.' in the console, **DON'T STOP THE PROGRAM OR CLOSE THE TAB YET; OR THE BOT WILL CONSIDERED BY DISCORD AS 'UNRESPONSIVE'**
+- Press the 'Enter' key.
+- Wait for it to print 'DONE | Application/Bot is up and running. DO NOT CLOSE THIS TAB UNLESS YOU ARE FINISHED USING THE BOT, IT WILL PUT THE BOT OFFLINE.' in the console, **DON'T STOP THE PROGRAM OR CLOSE THE TAB YET OR THE BOT WILL CONSIDERED BY DISCORD AS 'UNRESPONSIVE'**
 - Go back to the application page, go to the "General Information" tab, scroll down and copy application id.
 - Create a new discord server (you can delete it at the end).
 - Enable community on the server **This is requried for the badge.**
