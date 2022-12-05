@@ -34,7 +34,7 @@ If you're still learning and want the badge, follow the instructions below!
 - Wait for it to print 'DONE | Application/Bot is up and running. DO NOT CLOSE THIS TAB UNLESS YOU ARE FINISHED USING THE BOT, IT WILL PUT THE BOT OFFLINE.' in the console, **DON'T STOP THE PROGRAM OR CLOSE THE TAB YET OR THE BOT WILL CONSIDERED BY DISCORD AS 'UNRESPONSIVE'**
 - Go back to the application page, go to the "General Information" tab, scroll down and copy application id.
 - Create a new discord server (you can delete it at the end).
-- Enable community on the server **This is requried for the badge.**
+- Enable community on the server (you only need to do this if you don't own any other discord server with community enabled)
 - Return back to https://discord.com/developers/applications.
 - Copy the applocation id.
 - Use this invite link to add the application to the server: (replace ``{applicationid}`` with what you copied) ``https://discord.com/oauth2/authorize?client_id={applicationid}&scope=bot%20applications.commands&permissions=105227086912``
