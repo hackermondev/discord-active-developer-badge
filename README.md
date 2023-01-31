@@ -1,3 +1,7 @@
+### Discontinued unless bug fixes.
+This bot will not be worked on anymore unless there is bug fixes required. The support server may still be active.
+And pull requests may be ignored. Do not expect additions; simply do them on their own.
+
 ### No, it's not "patched"
 I've seen a lot of people say that this method has been patched or something. It's not. It still works (people are still getting the badge from it), if you're unable to get the badge after 24 hours of waiting, you probably didn't follow the instructions correctly.
 
