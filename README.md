@@ -1,7 +1,3 @@
-### No, it's not "patched"
-I've seen a lot of people say that this method has been patched or something. It's not. It still works (people are still getting the badge from it), if you're unable to get the badge after 24 hours of waiting, you probably didn't follow the instructions correctly.
-
-I think people think this is patched because of NoTextToSpeech's video but that video linked to another repository that works a different way, not this one.
 
 # Active Developer Badge
 Discord just launched the new "Active Developer" badge and they're encouraging new developers to join the community and get it.
@@ -75,3 +71,8 @@ Choose from dozens of Linux apps & clean OS installs to deploy in seconds with j
 
 # Star the repo!!!
 If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: https://discord.gg/M5MSE9CvNM
+
+### No, it's not "patched"
+I've seen a lot of people say that this method has been patched or something. It's not. It still works (people are still getting the badge from it), if you're unable to get the badge after 24 hours of waiting, you probably didn't follow the instructions correctly.
+
+I think people think this is patched because of NoTextToSpeech's video but that video linked to another repository that works a different way, not this one.
