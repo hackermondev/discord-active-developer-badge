@@ -16,6 +16,8 @@
   },
   "homepage": "https://github.com/hackermondev/discord-active-developer#readme",
   "dependencies": {
+    "chalk": "^3.0.0",
+    "console-png": "^1.2.1",
     "discord.js": "^14.6.0",
     "node-fetch": "^2.6.7",
     "readline": "^1.3.0"
