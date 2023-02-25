@@ -68,7 +68,7 @@ Choose from dozens of Linux apps & clean OS installs to deploy in seconds with j
 7. Start for Ceph File Storage $4.00/M: Optimized to utilize Ceph storage for no single point of failure.
 8. Premium Infrastructure: NVMe SSD Container-based cloud architecture with AMD EPYC 7601 CPU, hosted on a carefully architected Infiniband network.
 
-[Get started now](https://www.skysilk.com/ref/hdOgCmOaSB)
+[Get started now (with free $25 credit to get you started with any product)](https://www.skysilk.com/ref/hdOgCmOaSB)
 
 --------------------------------------
 
