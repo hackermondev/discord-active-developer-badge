@@ -1,5 +1,6 @@
 {
   "name": "discord-active-developer",
+  "main": "inndex.js",
   "private": true,
   "version": "0.0.0",
   "description": "Discord just launched the new \"Active Developer\" badge and they're encouraging new developers to join the community and get it. If you're still learning and want the badge, follow the instructions below!",
