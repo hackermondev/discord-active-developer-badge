@@ -22,8 +22,5 @@ WORKDIR /usr/src/app
 # Copy the built artifacts from the builder stage to the production stage
 COPY --from=builder /usr/src/app .
 
-# Expose the port the app runs on
-EXPOSE 3000
-
 # Command to run the application in the production stage
 CMD ["node", "index.js"]

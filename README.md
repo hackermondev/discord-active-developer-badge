@@ -46,7 +46,7 @@ docker build -t discord-badge .
 ```
 3. Run the container and insert your Discord bot token
 ```bash
-docker run -it -p 3000:3000 discord-badge
+docker run -it discord-badge
 ```
 4. Jump directly to step 12 and follow the remaining steps from the main instruction
 
