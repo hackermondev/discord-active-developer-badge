@@ -52,16 +52,16 @@ sourceMaps = true
 stopOnEntry = false
 type = "pwa-node"
 
-[packager]
-language = "nodejs"
+# [packager]
+# language = "nodejs"
 
-[packager.features]
-packageSearch = true
-guessImports = true
-enabledForHosting = false
+# [packager.features]
+# packageSearch = true
+# guessImports = true
+# enabledForHosting = false
 
-[interpreter]
-command = ["prybar-nodejs", "-q", "--ps1", "\u0001\u001B[33m\u0002\u0001\u001B[00m\u0002 ", "-i"]
+# [interpreter]
+# command = ["prybar-nodejs", "-q", "--ps1", "\u0001\u001B[33m\u0002\u0001\u001B[00m\u0002 ", "-i"]
 
 [unitTest]
 language = "nodejs"
