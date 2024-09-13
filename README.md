@@ -46,29 +46,6 @@ If you're still learning and want the badge, follow the instructions below!
 If you're encountering any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues) or join [this](https://discord.gg/M5MSE9CvNM) server and ping me in the `#general` channel.
 
 
---------------------------------------
-# Sponsored by **SkySilk**
-![image](https://user-images.githubusercontent.com/60828015/221383603-31059a63-17bd-44d7-a1c6-8bde84faaf14.png)
-
-SkySilk is the #1 VPS hosting solution for Discord bots, website, and more. 
-
-Choose from dozens of Linux apps & clean OS installs to deploy in seconds with just 1-click. Whether you're running a small cloud operation or part of an enterprise-level organization, SkySilk offers over 40 resource plans to ensure you have the right cloud VPS environment suitable for your projects.
-
-### Features
-1. Start for $4.00/M: Deploy an SSD cloud server starting at just $4.00/month, scale as you go.
-2. Auto Backups & Snapshots: Get peace of mind with automatic weekly cloud backups & snapshots.
-3. Flexible Resource Options: A variety of monthly plans to meet any workload and budget.
-4. Triple Replicated SSD: Industry leading Infiniband speeds for rapid deployment and optimal I/O.
-5. Earn Hosting Rewards: Earn up to 10x SkySilk Rewards points on every transaction and referral, redeemable for Account Credit and other great rewards!
-6. Powered by Open Source: Flexibility and compatibility with many familiar and popular Linux-based open source software solutions.
-7. Start for Ceph File Storage $4.00/M: Optimized to utilize Ceph storage for no single point of failure.
-8. Premium Infrastructure: NVMe SSD Container-based cloud architecture with AMD EPYC 7601 CPU, hosted on a carefully architected Infiniband network.
-
-[Get started now (with free $25 credit to get you started with any product)](https://www.skysilk.com/ref/hdOgCmOaSB)
-
---------------------------------------
-
-
 # Star the repo!!!
 If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: https://discord.gg/M5MSE9CvNM
 
