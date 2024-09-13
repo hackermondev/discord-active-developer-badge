@@ -55,16 +55,4 @@ const question = (q) => new Promise((resolve) => rl.question(q, resolve));
   await client.rest.put(Routes.applicationCommands(client.user.id), { body: commands });
 
   console.log('DONE | Application/Bot is up and running. DO NOT CLOSE THIS TAB UNLESS YOU ARE FINISHED USING THE BOT, IT WILL PUT THE BOT OFFLINE.');
-
-
-  // Skysilk Sponsorship (feel free to remove this if you're editing the code)
-  console.log(`\n\n`);
-  const chalk = require('chalk');
-  require('console-png').attachTo(console);
-
-  
-  console.log(chalk.bold('Sponsored by', chalk.hex('#5A96F6')('SkySilk')));
-  console.log(`The #1 VPS hosting solution for Discord bots, website, and more.\nChoose from dozens of Linux apps & clean OS installs to deploy in seconds with just 1-click. Whether you're running a small cloud operation or part of an enterprise-level organization, SkySilk offers over 40 resource plans to ensure you have the right cloud VPS environment suitable for your projects.`);
-  console.log(`----> ${chalk.green.bold(`https://bit.ly/SkysilkBotHosting`)} <----\n`);
-  console.png(require('path').join(__dirname, 'assets', 'skysilk-logo-icon.png'))
 })();
